@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Stijn ter Horst!
-🎓 IT Infrastructure student 
+🎓 Cloud & Cybersecurity student 
 
 ## 🛠️ Tech
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
